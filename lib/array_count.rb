@@ -6,6 +6,7 @@ def count_strings(array)
       result << string_number
     end
   end
+  p result.count
 end
 
 def count_empty_strings(array)
